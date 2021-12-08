@@ -1,2 +1,2 @@
 # AppXamarin
-1º app com xamarin - brincando 
+Brincando com xamarin pela primeira vez :)
